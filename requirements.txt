@@ -1,3 +1,5 @@
+numpy
+ipycanvas
 gym
 matplotlib
 opencv-python
